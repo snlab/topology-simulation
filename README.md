@@ -1,8 +1,4 @@
 # topology-simulation
 Use mininet to simulate topologies
 
-# Potential Data Sources
-
-*SNAP*: http://snap.stanford.edu/data/#p2p
-*Topology zoo*: http://www.topology-zoo.org/
-*CAIDA*: https://www.caida.org/research/topology/
+The setup.py is based on [this](https://github.com/pypa/sampleproject/blob/master/setup.py).
